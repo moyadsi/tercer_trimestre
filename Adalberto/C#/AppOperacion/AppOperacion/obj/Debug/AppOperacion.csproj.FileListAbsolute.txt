@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.Form1.resources
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.Properties.Resources.resources
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppOperacion\AppOperacion\bin\Debug\AppOperacion.exe.config
+C:\Users\User\source\repos\AppOperacion\AppOperacion\bin\Debug\AppOperacion.exe
+C:\Users\User\source\repos\AppOperacion\AppOperacion\bin\Debug\AppOperacion.pdb
+C:\Users\User\source\repos\AppOperacion\AppOperacion\bin\Debug\LIB_Operacion.dll
+C:\Users\User\source\repos\AppOperacion\AppOperacion\bin\Debug\LIB_Operacion.pdb
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.CopyComplete
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.exe
+C:\Users\User\source\repos\AppOperacion\AppOperacion\obj\Debug\AppOperacion.pdb

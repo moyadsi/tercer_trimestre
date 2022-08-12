@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\LIB_Operacion\LIB_Operacion\bin\Debug\LIB_Operacion.dll
+C:\Users\User\source\repos\LIB_Operacion\LIB_Operacion\bin\Debug\LIB_Operacion.pdb
+C:\Users\User\source\repos\LIB_Operacion\LIB_Operacion\obj\Debug\LIB_Operacion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LIB_Operacion\LIB_Operacion\obj\Debug\LIB_Operacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LIB_Operacion\LIB_Operacion\obj\Debug\LIB_Operacion.dll
+C:\Users\User\source\repos\LIB_Operacion\LIB_Operacion\obj\Debug\LIB_Operacion.pdb
