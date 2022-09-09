@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacionPromedio", "OperacionPromedio\OperacionPromedio.csproj", "{BEE10A53-D2A7-464B-BE4A-BA44C5D4CD0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE10A53-D2A7-464B-BE4A-BA44C5D4CD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE10A53-D2A7-464B-BE4A-BA44C5D4CD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE10A53-D2A7-464B-BE4A-BA44C5D4CD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE10A53-D2A7-464B-BE4A-BA44C5D4CD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C98955F-083E-459F-91A5-6808A49EED62}
+	EndGlobalSection
+EndGlobal

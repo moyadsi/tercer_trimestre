@@ -1,0 +1,14 @@
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.AssemblyReference.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.SuggestedBindingRedirects.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.Form1.resources
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.Properties.Resources.resources
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.GenerateResource.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.CoreCompileInputs.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\bin\Debug\AppLeerXML.exe.config
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\bin\Debug\AppLeerXML.exe
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\bin\Debug\AppLeerXML.pdb
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\bin\Debug\LibParametro.dll
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\bin\Debug\LibParametro.pdb
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.csproj.CopyComplete
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.exe
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppLeerXML\AppLeerXML\obj\Debug\AppLeerXML.pdb

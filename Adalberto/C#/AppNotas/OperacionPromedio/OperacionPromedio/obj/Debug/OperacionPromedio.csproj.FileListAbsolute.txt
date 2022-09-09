@@ -1,0 +1,14 @@
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\bin\Debug\OperacionPromedio.exe.config
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\bin\Debug\OperacionPromedio.exe
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\bin\Debug\OperacionPromedio.pdb
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\bin\Debug\AppNotas.dll
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\bin\Debug\AppNotas.pdb
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.csproj.AssemblyReference.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.csproj.SuggestedBindingRedirects.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.Form1.resources
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.Properties.Resources.resources
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.csproj.GenerateResource.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.csproj.CoreCompileInputs.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.csproj.CopyComplete
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.exe
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\OperacionPromedio\OperacionPromedio\obj\Debug\OperacionPromedio.pdb

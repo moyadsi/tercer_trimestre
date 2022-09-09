@@ -1,0 +1,6 @@
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\AppNotas\bin\Debug\AppNotas.dll
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\AppNotas\bin\Debug\AppNotas.pdb
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.AssemblyReference.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.CoreCompileInputs.cache
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\AppNotas\obj\Debug\AppNotas.dll
+D:\ADSI\Tercer Trimestre\Adalberto\C#\AppNotas\AppNotas\obj\Debug\AppNotas.pdb
